@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kevindabhi
-- 👀 I’m interested in getting my first real job in Software Engineering-
-- 🌱 I’m currently learning software development
+- 👀 I’m a full stack software engineer. 
 - 💞️ I’m looking to collaborate on real world projects that I would face when I have a job.
 - 📫 How to reach me on twitter kevin_dabhi
 
