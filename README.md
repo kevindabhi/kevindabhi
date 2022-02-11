@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevindabhi
-- 👀 I’m a full stack software engineer. 
+- 👀 I’m a full stack software Developer based in Germany.
 - 💞️ I’m looking to collaborate on real world projects that I would face when I have a job.
 - 📫 How to reach me on twitter kevin_dabhi
 
